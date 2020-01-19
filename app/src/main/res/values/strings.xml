@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">insta</string>
+
+    <string name="cd">cannot display</string>
+    <string name="like1">Liked by</string>
+
+    <string name="like3">and</string>
+
+
+    <string name="aac">Add a comment....</string>
+
+    <string name="ys">Your story</string>
+</resources>
