@@ -2,9 +2,9 @@
 
 * [Description](#B)
 
-* [Task](#L)
+* [Libraries](#L)
 
-* [Scope](#O)
+* [Output](#O)
 
 
 
