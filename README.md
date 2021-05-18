@@ -49,6 +49,6 @@
 <br/>
 
 <a name="O"></a>
-## Output
+## Output : Uploaded as a Gif 
 
-![gif to display the working](output.gif)
+![](output.gif)
