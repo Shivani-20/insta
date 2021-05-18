@@ -1,3 +1,3 @@
 ## Output
 
-![](output.mp4)
+![](output.gif)
