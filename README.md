@@ -51,4 +51,4 @@
 <a name="O"></a>
 ## Output
 
-![](output.gif)
+![gif to display the working](output.gif)
