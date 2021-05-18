@@ -6,10 +6,13 @@
 
 * [Scope](#O)
 
-<br/>
+
 
 <a name="B"></a>
 ## Background
+
+* This project is my take on re-building instagram from scratch. 
+* Currently it only just the user interface with static images and vectors
 
 <br/>
 
